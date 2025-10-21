@@ -1,9 +1,9 @@
 {
   "CS2": {
     "options": {
-      "Option1": {
-        "exe_url": "https://example.com/cs2_option1.exe",
-        "exe_name": "cs2_option1.exe"
+      "Plutana-eng Simple": {
+        "exe_url": "https://example.com/Plutana-eng-Simple.exe",
+        "exe_name": "Plutana-eng-Simple.exe"
       },
       "Option2": {
         "exe_url": "https://example.com/cs2_option2.exe",

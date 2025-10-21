@@ -1,22 +1,21 @@
 {
-  "GameName": {
-    "banner": "https://raw.githubusercontent.com/User-Name123115/Py-Login-Menu/refs/heads/main/Self/cs2%20banner.jpg",
+  "CS2": {
     "options": {
       "Option1": {
-        "exe_url": "https://example.com/option1.exe",
-        "exe_name": "Plutana-eng Base"
+        "exe_url": "https://example.com/cs2_option1.exe",
+        "exe_name": "cs2_option1.exe"
       },
       "Option2": {
-        "exe_url": "https://example.com/option2.exe",
-        "exe_name": "option2.exe"
+        "exe_url": "https://example.com/cs2_option2.exe",
+        "exe_name": "cs2_option2.exe"
       },
       "Option3": {
-        "exe_url": "https://example.com/option3.exe",
-        "exe_name": "option3.exe"
+        "exe_url": "https://example.com/cs2_option3.exe",
+        "exe_name": "cs2_option3.exe"
       },
       "Option4": {
-        "exe_url": "https://example.com/option4.exe",
-        "exe_name": "option4.exe"
+        "exe_url": "https://example.com/cs2_option4.exe",
+        "exe_name": "cs2_option4.exe"
       }
     }
   }
